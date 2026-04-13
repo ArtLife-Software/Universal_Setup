@@ -34,13 +34,14 @@
 
 ```ini
 [Info]
-AppName=PPT Control
-MainEXE=PPT_Control_x64.exe
-License=本軟體由林彥丞設計\n僅供個人免費使用。
+AppName=程式名稱
+MainEXE=程式檔案名稱
+AutoRunDefault=0
+License=程式名稱\n版本1.0.0　2026/04/12
 
 [ContextMenu]
-Enable=1
-Label=使用 PPT Control 開啟
+Enable=0
+Label=右鍵功能表名稱
 
 [Shortcuts]
-FileList=PPT_Control_x64.exe,README.txt
+FileList=程式檔案名稱,程式檔案名稱1,程式檔案名稱2
