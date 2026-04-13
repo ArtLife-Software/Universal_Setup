@@ -45,6 +45,6 @@ Label=右鍵功能表名稱
 
 [Shortcuts]
 FileList=程式檔案名稱,程式檔案名稱1,程式檔案名稱2
-
+```
 <img width="426" height="418" alt="Universal_Setup_1 1 0_主視窗" src="https://github.com/user-attachments/assets/1a523306-ea7a-4360-a1c2-4ccdecc83087" />
 
