@@ -29,7 +29,7 @@
 <img width="527" height="510" alt="Universal_Setup_2 0 0_主視窗1" src="https://github.com/user-attachments/assets/69ca79ef-8967-41e7-811d-41079ee03986" />
 <img width="527" height="510" alt="Universal_Setup_2 0 0_主視窗2" src="https://github.com/user-attachments/assets/22593303-08b8-4769-af1d-1e2dd72131bd" />
 
-## 📝 Install.ini 範例
+## 📝 Install.ini 模版
 ```text
 [Info]
 AppName=程式名稱
