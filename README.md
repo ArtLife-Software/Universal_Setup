@@ -1,7 +1,11 @@
 # 🛠️ Universal Setup (通用安裝精靈)
 
-![Version](https://img.shields.io/badge/Version-1.0.0-blue.svg)
-![Language](https://img.shields.io/badge/Language-AutoHotkey_v2-green.svg)
+![OS](https://img.shields.io/badge/OS-Windows-blue?style=flat-square&logo=windows)
+![Language](https://img.shields.io/badge/Language-AutoHotkey_v2-green?style=flat-square&logo=autohotkey)
+![Locale](https://img.shields.io/badge/Locale-正體中文-orange?style=flat-square)
+![License](https://img.shields.io/badge/License-GPL_v3-red?style=flat-square)
+![Latest Release](https://img.shields.io/github/v/release/ArtLife-Software/Universal_Setup?style=flat-square&color=blue)
+![Downloads](https://img.shields.io/github/downloads/ArtLife-Software/Universal_Setup/total?style=flat-square&logo=github)
 
 這是由 **ArtLife Software** 開發的通用安裝腳本。它能將您的程式，透過簡單的設定檔 (INI)，自動化封裝成具備專業安裝介面的軟體。
 
