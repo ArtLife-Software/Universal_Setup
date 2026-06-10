@@ -122,4 +122,4 @@ Resources\Logo.png
 
 ## 授權協議
 
-本專案採用 **GPL-3.0 License** 授權發佈。
+本專案採用 **PolyForm Noncommercial License 1.0.0** 授權發佈。
